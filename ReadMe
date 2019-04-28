@@ -5,5 +5,5 @@ pip install flask peewee
 
 template：存放HTML文件
 static：存放静态文件
-cpu_usage.py:入口文件
-moduls.py：数据库逻辑
+cpu_usage.py:web后端代码
+moduls.py：监控数据获取
