@@ -1,0 +1,9 @@
+#自动化监控系统性能数据展示
+
+pip install flask peewee
+
+
+template：存放HTML文件
+static：存放静态文件
+cpu_usage.py:入口文件
+moduls.py：数据库逻辑
